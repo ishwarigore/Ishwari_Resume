@@ -1,0 +1,30 @@
+body{background-color: rgb(242, 228, 255);
+    font-family: 'Croissant One', cursive;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+     font-size:20px;}
+
+    h1{font-size: 60px;background:rgb(154, 74, 197);padding: 30px;color: rgb(255, 255, 255);text-align: center;border-radius: 5px}
+    h2{font-size: 40px;background:rgb(154, 74, 197);padding: 30px;color: rgb(255, 255, 255);;border-radius: 5px}
+    h3{font-size: 40px;}
+
+    table, td{border:1px solid black;border-collapse: collapse; text-align: center;background:rgb(197, 165, 230)}
+
+    button{background:rgb(242, 228, 255);padding: 40px;color: rgb(255, 255, 255);text-align: center;border-radius: 5px;}
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        border: 1px solid #000000;
+    }
+    td, th {
+        border: 1px solid #000000;
+        padding: 8px;
+        text-align: left;
+    }
+    h1, h2 {
+        margin: 0;
+    }
+    
+    #contact td {
+        height: 100%; 
+    }

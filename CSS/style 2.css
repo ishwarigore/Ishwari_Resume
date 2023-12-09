@@ -1,0 +1,55 @@
+body{background-color: rgb(242, 228, 255);
+    font-family: <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=PT+Serif&display=swap" rel="stylesheet">cursive;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+     font-size:20px;}
+
+     h1{font-size: 60px;background:rgb(154, 74, 197);padding: 30px;color: rgb(255, 255, 255);text-align: center;border-radius: 5px}
+    h2{font-size: 40px;background:rgb(154, 74, 197);padding: 30px;color: rgb(255, 255, 255);;border-radius: 5px}
+    h3{font-size: 40px;}
+
+     body {
+        background-color: #e2e4ff; 
+
+    }
+
+    #button-container {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+    }
+
+    #custom-button {
+        background-color: #3498db; 
+        color: #fff; 
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-weight: bold;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        border: 1px solid #000000;
+    }
+    td, th {
+        border: 1px solid #000000;
+        padding: 8px;
+        text-align: left;
+    }
+    h1, h2 {
+        margin: 0;
+    }
+   
+    #contact td {
+        height: 100%; 
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        border: 1px solid #000000;
+    }
+
